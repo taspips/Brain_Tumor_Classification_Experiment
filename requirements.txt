@@ -1,6 +1,6 @@
 h5py==2.10.0
 tensorflow
-streamlit==0.77.0
+streamlit
 Pillow==8.1.0
 opencv-python==4.5.1.48
 numpy
