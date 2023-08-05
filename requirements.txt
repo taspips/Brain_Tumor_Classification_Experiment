@@ -6,7 +6,7 @@ opencv-python
 numpy
 matplotlib
 seaborn
-sklearn
+scikit-learn
 random
 os
 tqdm
