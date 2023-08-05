@@ -6,7 +6,6 @@ opencv-python==4.5.1.48
 numpy
 matplotlib==3.3.4
 seaborn
-cv2
 sklearn
 random
 os
